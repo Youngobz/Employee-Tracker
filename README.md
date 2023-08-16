@@ -1,7 +1,7 @@
 # Employee Management System
 
 The Employee Management System is a command-line application built in Node.js that allows you to manage employee data in a MySQL database. This application provides functionalities to view, add, and update employees, roles, and departments within your organization.
-
+https://github.com/Youngobz/Employee-Tracker/assets/133522178/e7797483-0077-486a-9aa8-6ef5daaa90cd
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
